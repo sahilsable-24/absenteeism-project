@@ -31,7 +31,7 @@ absenteeism-project/
 ├── Absenteeism_new_data.csv        # New data for predictions
 ├── Absenteeism_predictions.csv     # Prediction results from ML pipeline
 ├── df_preprocessed.csv             # Cleaned and processed dataset
-├── Book1.twb                       # Tableau workbook for visual analysis
+├── Plots.twb                       # Tableau workbook for visual analysis
 └── README.md                       # Project documentation (this file)
 ```
 
@@ -39,7 +39,7 @@ absenteeism-project/
 
 ## 📊 Tableau Dashboard
 
-- **File**: `Book1.twb`
+- **File**: `Plots.twb`
 - **Software**: Tableau Desktop
 - **Dashboard Includes**:
   - Absenteeism trends by reason, month, department
@@ -96,7 +96,7 @@ Includes a `CustomScaler` class to standardize selected columns while preserving
    - Open and run `ABSENTEEISM_ML.ipynb`
 
 3. **Open Tableau dashboard**:
-   - Launch `Book1.twb` using Tableau Desktop or Public
+   - Launch `Plots.twb` using Tableau Desktop or Public
 
 ---
 
